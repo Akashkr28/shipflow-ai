@@ -6,9 +6,9 @@ An AI-powered product delivery platform that takes a software team from a raw fe
 
 ## Live Demo
 
-- **App:** _add your Vercel URL here_
+- **App:** _add your Vercel URL here once deployed_
 - **Demo video:** _add your video link here_
-- **Repo:** _add your public GitHub URL here_
+- **Repo:** https://github.com/Akashkr28/shipflow-ai
 
 ## Project Overview
 
